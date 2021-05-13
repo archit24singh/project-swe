@@ -20,12 +20,12 @@ const Navbar = () => {
         <a className="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">services</a>
+        <a className="nav-link" href="#">About</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link" href="#">membership</a>
+        <a className="nav-link" href="#">Catagories</a>
       </li> <li className="nav-item">
-        <a className="nav-link" href="#">about</a>
+        <a className="nav-link" href="#">Blogs</a>
       </li> <li className="nav-item">
         <a className="nav-link" href="#">contact us</a>
       </li>
