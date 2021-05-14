@@ -5,6 +5,8 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import About from "./components/About";
 import Catagories from "./components/catagories";
+import Blogs from "./components/Blogs";
+import Contacts from "./components/Contacts";
 function App() {
   return (
     <>
@@ -36,6 +38,8 @@ function App() {
    <Header/>
    <About/>
    <Catagories/>
+   <Blogs/>
+   <Contacts/>
    </>
   );
 }
